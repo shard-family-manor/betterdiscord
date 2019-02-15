@@ -1,0 +1,17 @@
+
+//META{"name":"KR0N SHARD","description":"KR0N SHARD's theme","author":"KR0N SHARD","version":"0.1"}*//{}
+@import url(https://github.com/shard-family-manor/betterdiscord/blob/master/transparency2.css);
+:root {
+	/* background URL */
+	--background-image: url(https://i.ibb.co/R0t0TH4/9befe2fd0fed5bf404c120d205f68095.jpg) center/cover no-repeat;
+	/* Guild and Top bar transparency */
+	--transparency-1: linear-gradient(to left, #2eb5b8, #0bf1f6);
+	/* transparency for channels and private channels */
+	--transparency-2: linear-gradient(to right,  #999999,  #cccccc);
+	/* chat and top area and other secondary pages */
+	--transparency-3: linear-gradient(to right,  #7FFFD4,  #4c997f);
+	/* member list */
+	--transparency-4: linear-gradient(to right, #d47fff, #7fffd4);
+	/* transparecy with gradient of top bar */
+	--transparency-5: linear-gradient(to right, rgba(0,0,0,0.85), rgba(0,0,0,0.75),rgba(0,0,0,0.65), rgba(0,0,0,0.62), rgba(0,0,0,0.60),rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+}
